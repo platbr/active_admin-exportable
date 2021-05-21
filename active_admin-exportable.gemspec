@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Wagner Caixeta']
   spec.email         = ['wagner.caixeta@gmail.com.com']
   spec.summary       = 'A export/import tool for ActiveAdmin.'
-  spec.description   = 'Allow user to export/import of ActiveRecord records and relations in ActiveAdmin.'
+  spec.description   = 'Allow user to export/import of ActiveRecord records and associated records in ActiveAdmin.'
   spec.homepage      = 'https://github.com/zorab47/active_admin-exportable'
   spec.license       = 'MIT'
 
