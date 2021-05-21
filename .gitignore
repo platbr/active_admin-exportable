@@ -1,0 +1,5 @@
+.rspec
+.bundle/
+log/*.log
+pkg/
+Gemfile.lock
